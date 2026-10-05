@@ -1,1 +1,2 @@
 about merge conflict 
+2 personn at a time
